@@ -1,0 +1,148 @@
+{
+  "product": "Japan Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the first day of the Gregorian calendar year"
+    },
+    {
+      "title": "Coming of Age Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-13T12:00:00",
+      "endDate": "2025-01-13T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of young people who have reached the age of majority"
+    },
+    {
+      "title": "National Foundation Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-02-11T12:00:00",
+      "endDate": "2025-02-11T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the foundation of Japan and the imperial line"
+    },
+    {
+      "title": "Showa Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-29T12:00:00",
+      "endDate": "2025-04-29T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of the birthday of Emperor Showa"
+    },
+    {
+      "title": "Constitution Memorial Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-03T12:00:00",
+      "endDate": "2025-05-03T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Celebration of the enactment of the post-war constitution of Japan"
+    },
+    {
+      "title": "Children's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-05T12:00:00",
+      "endDate": "2025-05-05T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "teal",
+      "description": "Celebration of children's personalities and happiness"
+    },
+    {
+      "title": "Marine Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-21T12:00:00",
+      "endDate": "2025-07-21T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "cyan",
+      "description": "Celebration of the ocean and Japan's maritime prosperity"
+    },
+    {
+      "title": "Mountain Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-11T12:00:00",
+      "endDate": "2025-08-11T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of Japan's mountains and nature"
+    },
+    {
+      "title": "Respect for the Aged Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-15T12:00:00",
+      "endDate": "2025-09-15T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "amber",
+      "description": "Celebration of elderly citizens and their contributions"
+    },
+    {
+      "title": "Autumnal Equinox Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-23T12:00:00",
+      "endDate": "2025-09-23T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebration of the autumnal equinox and nature"
+    },
+    {
+      "title": "Health and Sports Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-13T12:00:00",
+      "endDate": "2025-10-13T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "light",
+      "description": "Celebration of sports, health, and a healthy mind and body"
+    },
+    {
+      "title": "Culture Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-03T12:00:00",
+      "endDate": "2025-11-03T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "indigo",
+      "description": "Celebration of culture, the arts, and academic endeavor"
+    },
+    {
+      "title": "Labor Thanksgiving Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-23T12:00:00",
+      "endDate": "2025-11-23T12:00:00",
+      "source": "Government of Japan",
+      "product": "Japan Public Holidays 2025",
+      "style": "pink",
+      "description": "Celebration of labor and production and giving thanks"
+    }
+  ]
+}
